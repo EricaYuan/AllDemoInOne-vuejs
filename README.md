@@ -9,8 +9,7 @@ VUE-CLI3创建的项目
 #### 运行： 
     ```
     npm install
-    ```
-    ```
+    
     npm run serve
     ```
 
